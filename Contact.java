@@ -1,7 +1,8 @@
 public class Contact {
-    String name;
-    String phoneNumber;
-    String email;
+    private String name;
+    private String phoneNumber;
+    private String email;
+
 
     public Contact(String name, String phoneNumber, String email){
         this.name= name;
