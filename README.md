@@ -8,10 +8,3 @@ A simple Java application that simulates a basic phone book using a `HashMap` to
 - Stores the contacts in a `HashMap` with an auto-incrementing ID.
 - Prints the list of all contacts to the console.
 
-## Getting Started
-
-### Prerequisites
-
-To run this program, you will need:
-
-- [Java Development Kit (JDK)](https://www.oracle.com/java/techn
